@@ -3,6 +3,8 @@
 :host{
   display: flex;
   justify-content: space-between;
+  padding: rem-calc(20) 0;
+
   .pokemon {
     background: var(--branco);
     border-radius: rem-calc(10);
